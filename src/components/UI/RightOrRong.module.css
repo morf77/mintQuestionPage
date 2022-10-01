@@ -1,0 +1,29 @@
+.chart__result-icon{
+    width:5vw;
+    height:5vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    border:5px outset ;
+    z-index: 1;
+}
+@media only screen and (max-width: 700px){
+    .chart__result-icon{
+        width:10vw;
+        height:10vw;
+    }
+}
+.background-notAnsweared{
+    background-image: url("../img/notAnsweared.jpg");
+    border-color: rgb(38, 0, 255);
+
+}
+.background-true{
+    background-image: url("../img/right.jpg");
+    border-color:rgb(0, 255, 0);
+}
+.background-false{
+    background-image: url("../img/rong.jpg");
+    border-color:red;
+}

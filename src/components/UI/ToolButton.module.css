@@ -1,0 +1,28 @@
+.Chart__button {
+    width:150px;
+    background: linear-gradient(90deg,#FF5EDF 0%,#04C8DE 100%);
+    border-radius: 10px;
+    height:40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border: 3px outset;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 30px;
+}
+.Chart__button:hover{
+    opacity:70%;
+}
+.Chart__button:active{
+    border: 3px inset;
+}
+.Chart__next-picture{
+    background-image: url("../img/next.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 100%;
+    width:20px;
+    height:20px;
+}

@@ -1,0 +1,17 @@
+.chart__container {
+    display:flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    margin:0 5vw;
+    width: 100%;
+}
+.chart__line{
+    background : linear-gradient(90deg,#04c8de73 0%,#ff5edf8a  100%);
+    position: absolute;
+    z-index: 0;
+    width:100%;
+    height:10px;
+    color: #02c6db;
+}
+
