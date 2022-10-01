@@ -10,7 +10,7 @@
     /* box-shadow: 1px 1px 10px #888888; */
 }
 .question-option:hover {
-    opacity: 50%;
+    opacity: 0.5;
 }
 .question-option:active {
     border: 4px inset;
