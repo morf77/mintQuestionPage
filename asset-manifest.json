@@ -1,7 +1,7 @@
 {
-  "main.css": "/mintQuestionPage/static/css/main.ccb10650.chunk.css",
-  "main.js": "/mintQuestionPage/static/js/main.d6553364.chunk.js",
-  "main.js.map": "/mintQuestionPage/static/js/main.d6553364.chunk.js.map",
+  "main.css": "/mintQuestionPage/static/css/main.3489e4c4.chunk.css",
+  "main.js": "/mintQuestionPage/static/js/main.276ff8d9.chunk.js",
+  "main.js.map": "/mintQuestionPage/static/js/main.276ff8d9.chunk.js.map",
   "static/js/1.d6ad0681.chunk.js": "/mintQuestionPage/static/js/1.d6ad0681.chunk.js",
   "static/js/1.d6ad0681.chunk.js.map": "/mintQuestionPage/static/js/1.d6ad0681.chunk.js.map",
   "static/js/2.429d8dc4.chunk.js": "/mintQuestionPage/static/js/2.429d8dc4.chunk.js",
@@ -9,8 +9,8 @@
   "runtime~main.js": "/mintQuestionPage/static/js/runtime~main.ca1cd576.js",
   "runtime~main.js.map": "/mintQuestionPage/static/js/runtime~main.ca1cd576.js.map",
   "static/media/RightOrRong.module.css": "/mintQuestionPage/static/media/right.442ef1c7.jpg",
-  "static/css/main.ccb10650.chunk.css.map": "/mintQuestionPage/static/css/main.ccb10650.chunk.css.map",
+  "static/css/main.3489e4c4.chunk.css.map": "/mintQuestionPage/static/css/main.3489e4c4.chunk.css.map",
   "index.html": "/mintQuestionPage/index.html",
-  "precache-manifest.88a9a3fd778831f784f577832c04aacd.js": "/mintQuestionPage/precache-manifest.88a9a3fd778831f784f577832c04aacd.js",
+  "precache-manifest.0dcbba772c0a5038ce01ac063872d676.js": "/mintQuestionPage/precache-manifest.0dcbba772c0a5038ce01ac063872d676.js",
   "service-worker.js": "/mintQuestionPage/service-worker.js"
 }
