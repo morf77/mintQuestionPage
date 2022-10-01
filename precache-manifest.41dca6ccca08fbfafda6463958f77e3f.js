@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2e8dfad8961d4deafede",
-    "url": "/mintQuestionPage/static/css/main.771e1965.chunk.css"
+    "revision": "c66785ff4df3c58d525d",
+    "url": "/mintQuestionPage/static/css/main.cc0cbda4.chunk.css"
   },
   {
-    "revision": "2e8dfad8961d4deafede",
-    "url": "/mintQuestionPage/static/js/main.2e8dfad8.chunk.js"
+    "revision": "c66785ff4df3c58d525d",
+    "url": "/mintQuestionPage/static/js/main.c66785ff.chunk.js"
   },
   {
     "revision": "d6ad0681366502a3b3ea",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/mintQuestionPage/static/media/right.442ef1c7.jpg"
   },
   {
-    "revision": "6bb31ff6ae6bc0f0dcf86f76a848ac0b",
+    "revision": "e348c32bc7593c9eb5a5291d6078e8ce",
     "url": "/mintQuestionPage/index.html"
   }
 ];
