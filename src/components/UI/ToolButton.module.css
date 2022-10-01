@@ -13,7 +13,7 @@
     padding: 0 30px;
 }
 .Chart__button:hover{
-    opacity:70%;
+    opacity:0.7;
 }
 .Chart__button:active{
     border: 3px inset;
